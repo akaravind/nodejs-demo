@@ -1,4 +1,5 @@
 {
+  "test-mochaawesome": "nyc --reporter=html mocha test/*.js --reporter mochawesome --exit"
   "name": "nodejs-demo",
   "version": "0.0.1",
   "private": true,
